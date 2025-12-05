@@ -49,7 +49,7 @@ body {
 
 header {
     /* Estilos aplicados ao cabeçalho (topo da página). */
-    max-width: 720px;
+    max-width: 1080px;
     /* Define uma largura máxima para o conteúdo do cabeçalho. */
     margin: auto;
     /* Centraliza o cabeçalho horizontalmente dentro do 'body'. */
@@ -138,7 +138,7 @@ nav {
 
 section {
     /* Estilos aplicados a todas as seções principais da página. */
-    max-width: 720px;
+    max-width: 1080px;
     /* Define uma largura máxima para o conteúdo das seções. */
     margin: auto;
     /* Centraliza a seção horizontalmente. */
@@ -577,7 +577,7 @@ h4 {
 
 footer {
     /* Estilos para o rodapé da página. */
-    max-width: 720px;
+    max-width: 1080px;
     /* Largura máxima. */
     margin: auto;
     /* Centraliza horizontalmente. */
